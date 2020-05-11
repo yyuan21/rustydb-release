@@ -1,0 +1,18 @@
+[package]
+name = "rustystore"
+version = "0.1.0"
+authors = ["Yida Yuan <yidayuan1028@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = {version="0.4.10", features=["serde"]}
+serde = {version="1.0", features=["derive"]}
+byteorder = "1"
+tempfile = "3"
+rand = "0.7"
+bincode = "1.1.3"
+lazy_static = "1.4"
+bitstream-io = "0.8.4"
+uuid = { version = "0.8", features = ["serde", "v4"] }

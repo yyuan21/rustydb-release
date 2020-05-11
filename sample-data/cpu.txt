@@ -1,0 +1,8 @@
+tags,hostname=host_0,region=eu-central-1,datacenter=eu-central-1a,rack=6,os=Ubuntu15.10,arch=x86,team=SF,service=19,service_version=1,service_environment=test
+cpu,1577836800000000000,58,2,24,61,22,63,6,44,80,38
+tags,hostname=host_1,region=us-west-1,datacenter=us-west-1a,rack=41,os=Ubuntu15.10,arch=x64,team=NYC,service=9,service_version=1,service_environment=staging
+cpu,1577836800000000000,84,11,53,87,29,20,54,77,53,74
+tags,hostname=host_0,region=eu-central-1,datacenter=eu-central-1a,rack=6,os=Ubuntu15.10,arch=x86,team=SF,service=19,service_version=1,service_environment=test
+cpu,1577836810000000000,59,4,25,60,23,62,5,47,80,38
+tags,hostname=host_1,region=us-west-1,datacenter=us-west-1a,rack=41,os=Ubuntu15.10,arch=x64,team=NYC,service=9,service_version=1,service_environment=staging
+cpu,1577836810000000000,85,13,52,88,28,20,55,79,53,74
